@@ -1,0 +1,7 @@
+Rencana Konten WB
+
+- Javascript
+  * ES6
+  * Framework JS
+- PHP Frameworks
+- Interview
